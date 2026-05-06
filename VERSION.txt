@@ -1,0 +1,5 @@
+MuseTalk Pipeline Comercial
+Generado: 2026-04-26T17:41:12.318473 UTC
+
+Este ZIP contiene wrapper, documentación y scripts.
+No contiene pesos/modelos IA.
