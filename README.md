@@ -239,3 +239,14 @@ El uso no cambia:
 python run_musetalk.py
 ```
 
+## ejecución recomendada
+
+- powershell:
+
+```powershell
+cd "C:\Users\vhgal\Documents\desarrollo\ia\AI-video-automation\lip-sync\musetalk_pipeline"
+conda activate musetalk
+python run_musetalk.py
+```
+
+
