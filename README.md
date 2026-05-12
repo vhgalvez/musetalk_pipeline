@@ -248,5 +248,3 @@ cd "C:\Users\vhgal\Documents\desarrollo\ia\AI-video-automation\lip-sync\musetalk
 conda activate musetalk
 python run_musetalk.py
 ```
-
-
